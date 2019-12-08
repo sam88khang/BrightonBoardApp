@@ -20,3 +20,36 @@
 .App-link {
   color: #09d3ac;
 }
+
+.Image-test{
+  height: 100vh;
+}
+
+.page-title{
+  font-size: x-large;
+  font-weight: bold;
+  
+  margin-bottom: 10px;
+
+}
+
+.page-subtitle{
+  text-decoration: underline;
+  text-decoration-color: green;
+}
+
+.page{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 50px;
+}
+
+.card-layout{
+  border-block-color: green;
+}
+
+.card-title{
+font-size: '1.25em';
+ color: "blue";
+ background-color: '#228B22'}
